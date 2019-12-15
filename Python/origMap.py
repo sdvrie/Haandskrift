@@ -48,5 +48,5 @@ geography_data = ({'type':'FeatureCollection','features':geography_features})
 m = folium.Map(location=[51,10], zoom_start=3)
 folium.Choropleth(geo_data=geography_data, data=mss_data, columns=['Country','Number'], key_on='feature.properties.name', fill_color="YlGn").add_to(m)
 
-m.save('MSS_map.html')
+m.save('../MSS_map.html')
     
