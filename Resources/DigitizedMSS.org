@@ -1,0 +1,14 @@
+#+TITLE: Notable digitized manuscripts
+
+* Scandinavian
+* Continental
+** Dutch
+*** Leiden Willeram
+:PROPERTIES:
+:Title: Leiden Willeram
+:AltTitle: Egmond Willeram
+:City: Leiden
+:Repository: Universiteitsbibliotheek
+:Shelfmark: BPL 130
+:Link: https://digitalcollections.universiteitleiden.nl/view/item/881139#page/1/mode/1up
+:END:
