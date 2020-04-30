@@ -1,15 +1,42 @@
 #+TITLE: Notable digitized manuscripts
-
+#+COLUMNS: %20ITEM %10Shelfmark %10Date %10Genre
 * Scandinavian
+** East Norse
+*** Karen Ludvigsdatters Tidebog
+:PROPERTIES:
+:Title: Karen Ludvigsdatters Tidebog
+:Date: c. 1500
+:Genre: Religion
+:City: Lund
+:Repository: Universitetsbiblioteket
+:Shelfmark: Mh 35
+:Link: http://www.alvin-portal.org/alvin/view.jsf?aq=%5B%5B%7B%22A_FQ%22%3A%22medeltidshandskrift%22%7D%5D%5D&c=1&aqe=%5B%5D&af=%5B%22ARCHIVE_ORG_ID_facet%3A8%22%2C%22alpha3_facet%3Adan%22%5D&searchType=EXTENDED&pid=alvin-record%3A14461&dswid=8867#alvin-record%3A14461
+:END:
+Medeltidshandskrift 35, Denmark, c. 1500. http://www.alvin-portal.org/alvin/view.jsf?aq=%5B%5B%7B%22A_FQ%22%3A%22medeltidshandskrift%22%7D%5D%5D&c=1&aqe=%5B%5D&af=%5B%22ARCHIVE_ORG_ID_facet%3A8%22%2C%22alpha3_facet%3Adan%22%5D&searchType=EXTENDED&pid=alvin-record%3A14461&dswid=8867#alvin-record%3A14461
+** West Norse
+*** Lundarbókin
+:PROPERTIES:
+:Title:    Lundarbókin
+:AltTitle: Codex Reenhielmianus
+:Date:     1305-1314
+:Genre:    Law
+:City:     Lund
+:Repository: Universitetsbiblioteket
+:Shelfmark: Mh 15
+:Link:     http://www.alvin-portal.org/alvin/view.jsf?dswid=4367&searchType=EXTENDED&query=medeltidshandskrift&aq=%5B%5B%7B%22A_FQ%22%3A%22medeltidshandskrift%22%7D%5D%5D&aqe=%5B%5D&af=%5B%22ARCHIVE_ORG_ID_facet%3A8%22%2C%22COUalpha2_facet%3ANO%22%5D&pid=alvin-record%3A14709&c=9#alvin-record%3A14709
+:END:
+Medeltidshandskrift 15
 * Continental
 ** Dutch
 *** Leiden Willeram
 :PROPERTIES:
-:Title: Leiden Willeram
+:Title:    Leiden Willeram
 :AltTitle: Egmond Willeram
-:City: Leiden
+:Date:     1090-1110
+:Genre:    Religion
+:City:     Leiden
 :Repository: Universiteitsbibliotheek
 :Shelfmark: BPL 130
-:Link: https://digitalcollections.universiteitleiden.nl/view/item/881139#page/1/mode/1up
+:Link:     https://digitalcollections.universiteitleiden.nl/view/item/881139#page/1/mode/1up
 :END:
 Leiden, Universiteitsbibliotheek, BPL 130. https://digitalcollections.universiteitleiden.nl/view/item/881139#page/1/mode/1up
