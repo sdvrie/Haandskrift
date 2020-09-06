@@ -28,7 +28,264 @@
 	    <origPlace>Holland</origPlace>
 	    <origDate notBefore="1400" notAfter="1499" evidence="conjecture" resp="KKKat">s. XV</origDate>
 	  </head>
-	  <msContents>
+		<physDesc>
+			<objectDesc form="codex">
+				<supportDesc material="perg">
+					<support>
+						<p>
+							<material>Pergament</material>
+							.
+						</p>
+					</support>
+					<extent>
+						i + 172 + i; bl. 13v-16
+						<hi rend="sup">bis</hi>
+						r, 72v og 171 er blanke.
+						<dimensions type="leaf" scope="all">
+							<height>143</height>
+							<width>102</width>
+						</dimensions>
+					</extent>
+					<foliation>
+						<p>
+							Folieret 1-172 af
+							<name type="person" key="KriKaa001">
+								Kristian Kålund
+							</name>
+							inkl. fribladene 6
+							<hi rend="sup">bis</hi>
+							og 16
+							<hi rend="sup">bis</hi>
+							.
+						</p>
+					</foliation>
+					<collation>
+						<p><list>
+							<item>I: fols. 2-8</item>
+							<item>II: fols. 9-16</item>
+							<item>III: fols. 16bis-24</item>
+							<item>IV: fols. 25-32</item>
+							<item>V: fols. 33-40</item>
+							<item>VI: fols. 41-48</item>
+							<item>VII: fols. 49-56</item>
+							<item>VIII: fols. 57-64</item>
+							<item>IX: fols. 65-72</item>
+							<item>X: fols. 73-80</item>
+							<item>XI: fols. 81-86</item>
+							<item>XII: fols. 87-94</item>
+							<item>XIII: fols. 95-104</item>
+							<item>XIV: fols. 105-112</item>
+							<item>XV: fols. 113-119</item>
+							<item>XVI: fols. 120-127</item>
+							<item>XVII: fols. 128-135</item>
+							<item>XVIII: fols. 136-143</item>
+							<item>XIX: fols. 144-151</item>
+							<item>XX: fols. 152-159</item>
+							<item>XXI: fols. 160-167</item>
+							<item>XXII: fols. 168-172</item>
+						</list></p>
+					</collation>
+				</supportDesc>
+				<layoutDesc>
+					<layout columns="1">
+						<p>
+							Kalendariet er enkeltspaltet med 16-17 linjer pr. side, understreget med rødt blæk.
+						</p>
+						<p>
+							Bønnerne er enkeltspaltede med 15-16 linjer pr. side.
+						</p>
+						<p>
+							Røde og blå majuskler på 1-2 linjer. Røde rubrikker og en enkelt blå.
+						</p>
+					</layout>
+				</layoutDesc>
+			</objectDesc>
+			<decoDesc>
+				<decoNote type="initial" subtype="initial">
+					<p>
+						Røde eller blå fleuronné-initialer på 3-11 linjer, nogle er forgyldte. Blomster-motiver (hvide, gule og nogen gange grønne) enten indeni initialet eller i rammen rundt om initialet.
+					</p>
+				</decoNote>
+				<decoNote type="initial" subtype="initial">
+					<p>
+						På bl. 105r er der et blåt forgyldt fleuronné-initial.
+					</p>
+				</decoNote>
+				<decoNote type="mixed">
+					<p>
+						På bl. 73r er der et stort initial, et blåt
+						<term>
+							littera florissa
+						</term>
+						i en forgyldt ramme med blomster. Den har også en ramme med røde og blå blomster med røde, grønne og guldblade.
+					</p>
+				</decoNote>
+				<decoNote type="diagram">
+					<p>Bl. 2-12 optages af et kalendarium.</p>
+				</decoNote>
+				<decoNote type="diagram">
+					<p>Bl. 13r optages af en komputistisk tabel.</p>
+				</decoNote>
+				<decoNote type="miniature">
+					<p>
+						Der er to miniaturer:
+						<list>
+							<item>
+								Bl. 16
+								<hi rend="sup">bis</hi>
+								v: Initial med Mariæ bebudelse. Jomfru Maria står foran en læsepult med en åben bog i et værelse med loftshvælvinger. Hun er klædt i folderige gevandter, hendes hår falder ned over hendes skuldre, og om hendes hoved er der en tynd gylden glorie. Ærkeenglen Gabriel står til venstre for hende; også han er i folderige gevandter, og han holder et scepter (?) i sin venstre hånd, hans højre er løftet til velsignelse. Helligånden er afbildet som en hvid due, og tre gyldne lysstråler stråler ud af Jomfru Maria. Billedet er indrammet, og i rammen er der strøet naturalistiske planter: roser, ærteblomster, stedmoderblomster og en snegl.
+							</item>
+							<item>
+								Bl. 17r: Initial med Kristi fødsel. I forgrunden ser vi den knælende Jomfru Maria; Jesusbarnet ligger foran hende på en blå kappe. Igen er Jomfru Maria afbildet med en tynd glorie og klædt i folderige gevandter. Jesusbarnet har guldstråler, der stråler ud af ham. Bagved moren og barnet ser vi stalden med oksen og æslet; Josef er på vej mod stalden med pinde i hænderne. I baggrunden er der et aftenlandskab med en orange og violet himmel. Under initialet er der 3 linjer tekst. Billedet er indrammet. I den øverste del af rammen er der en mørkeblå stjernehimmel og to syngende engle (den ene holder en skriftrulle). I den nederste del af rammen er der hyrder på marken, som holder nattevagt over deres hjord.
+							</item>
+						</list>
+					</p>
+				</decoNote>
+			</decoDesc>
+			<additions>
+				<p>Penneprøver på bl. 14r og 172r.</p>
+			</additions>
+			<bindingDesc>
+				<binding notBefore="1401" notAfter="1500" contemporary="unknown">
+					<p>
+						Håndskriftet er indbundet i et brunt, blindtrykt læderbind, oprindelig med to spænder. Bindstørrelse:
+						<dimensions type="binding">
+							<height>150</height>
+							<width>103</width>
+							<depth>46</depth>
+						</dimensions>
+						.
+					</p>
+				</binding>
+			</bindingDesc>
+			<accMat>
+				<p>
+					Der er en AM-seddel, skrevet af
+					<name type="person" key="ArnMag001">Arne Magnusson</name>
+					, som er sat fast til forpermen:
+					<q xml:lang="la">
+						Ex auctione
+						<name type="person" key="FreRos001">Rostgardianâ</name>
+						. Num. 345
+					</q>
+					.
+				</p>
+			</accMat>
+		</physDesc>
+		<history>
+			<origin>
+				<p>
+					Håndskriftet er skrevet i
+					<origPlace>Holland</origPlace>
+					i
+					<origDate notBefore="1400" notAfter="1499" cert="high" evidence="conjecture" resp="KKKat">1400-tallet</origDate>
+					.
+				</p>
+			</origin>
+			<provenance>
+				<p>
+					Bogen har tilhørt
+					<name type="person" key="FreRos001">
+						Frederik Rostgaard
+					</name>
+					.
+				</p>
+			</provenance>
+			<acquisition>
+				<p>
+					Ifølge AM-sedlen har
+					<name type="person" key="ArnMag001">Arne Magnusson</name>
+					erhvervet håndskriftet på
+					<name type="person" key="FreRos001">Frederik Rostgaard</name>
+					s auktion i
+					<date when="1726">1726</date>
+					.
+				</p>
+			</acquisition>
+		</history>
+		<additional>
+			<adminInfo>
+				<recordHist>
+					<source>
+						<p>
+							Katalogiseret
+							<date when="2000-04-05">5. april 2000</date>
+							af
+							<name type="person" key="EvaWed001">EW-J</name>
+							.
+						</p>
+					</source>
+				</recordHist>
+				<custodialHist>
+					<custEvent type="photography">
+						<p>
+							Håndskriftet er blevet fotograferet to gange; første gang i
+							<date when="1960">1960</date>
+							; supplerende fotografier fra
+							<date when="1968-08-26">26. august 1968</date>
+							.
+						</p>
+					</custEvent>
+					<custEvent type="loan">
+						<p>
+							Håndskriftet blev udlånt til
+							<name type="org">
+								Det Kongelige Bibliotek
+							</name>
+							til
+							<name type="person" key="CCol01">
+								C. Colin
+							</name>
+							<date from="1977-10-28" to="1977-11-01">
+								28. oktober 1977-1. november 1977
+							</date>
+							.
+						</p>
+					</custEvent>
+				</custodialHist>
+			</adminInfo>
+			<surrogates>
+				<p>
+					<listBibl>
+						<bibl>
+							<title type="gmd">mikrofilm (originaler)</title>
+							<idno>G.neg.207</idno>
+							<date when="1960"/>
+						</bibl>
+						<bibl>
+							<title type="gmd">mikrofilm (arkiv)</title>
+							<idno>G.pos.241</idno>
+							<date when="1960"/>
+						</bibl>
+						<bibl>
+							<title type="gmd">mikrofilm (originaler)</title>
+							<idno>Neg. 939</idno>
+							<date when="1968-08-26"/>
+							<note>Supplerende fotografier</note>
+						</bibl>
+						<bibl>
+							<title type="gmd">mikrofilm (arkiv)</title>
+							<idno>Pos. 830</idno>
+							<date when="1968-08-26"/>
+							<note>Supplerende fotografier</note>
+						</bibl>
+					</listBibl>
+				</p>
+			</surrogates>
+			<listBibl>
+				<bibl>
+					Kålund:
+					<ref type="secondary-1" target="KKKat">Katalog</ref>
+					<biblScope type="volume">II</biblScope>
+					<biblScope type="pages">375</biblScope>
+				</bibl>
+			</listBibl>
+		</additional>
+		<msPart>
+			<altIdentifier type="partial">
+				<idno>Del 1</idno>
+			</altIdentifier>
+		<msContents>
 	    <summary><title type="supplied">Geert Grotes bønnebog</title></summary>
 	    <msItem n="1">
 	      <locus from="2" facs="#AM08-071-0002r" to="12">2-12</locus>
@@ -115,7 +372,14 @@
 		<title type="supplied">Completorium</title>
 	      </msItem>
 	    </msItem>
-	    <msItem n="5">
+		</msContents>
+		</msPart>
+		<msPart>
+			<altIdentifier type="partial">
+				<idno>Del 2</idno>
+			</altIdentifier>
+		<msContents>
+		<msItem n="5">
 	      <locus from="73r" to="101v">73r1-101v12</locus>
 	      <title type="supplied">De zeven boetepsalmen</title>
 	      <incipit>HEre in dijnre verbolgenheit en ſtraffe mi niet</incipit>
@@ -144,8 +408,15 @@
 		<rubric>Dit is een guet gebet vander heiliger ioffrouwen en<expan>de</expan> martelersche s<expan>an</expan>c<expan>t</expan>e barb<expan>ara</expan></rubric>
 		<incipit>O Heilige maget ende bruut <expan>Christi</expan></incipit>
 		<explicit>Op dat ic doer v heilige v<expan>er</expan>dienſte onbeulect mach liden vander doet in dat ewige leuen AmEN</explicit>
-	      </msItem>
-	    </msItem>
+	      </msItem>			
+		</msItem>
+		</msContents>
+		</msPart>
+		<msPart>
+			<altIdentifier type="partial">
+				<idno>Del 3</idno>
+			</altIdentifier>
+			<msContents>
 	    <msItem n="7">
 	      <locus from="105r" to="130v">105r-130v3</locus>
 	      <title type="supplied">Zeven boetepsalmen II</title>
@@ -253,7 +524,7 @@
 	      <explicit>Want ic v ghewarich kinne</explicit>
 	    </msItem>
 	    <msItem>
-	      <locus from="149v" to="">149v12-</locus>
+	    	<locus from="149v" to="157r">149v12-</locus>
 	      <title type="supplied">Bønner til Maria</title>
 	      <rubric>Hier nae wolghe<expan>n</expan> ſeer ſunerlicke ghebeden van die werdighe maghet ende moeder gods maria</rubric>
 	      <msItem>
@@ -322,6 +593,7 @@
 	    </msItem>
 	    
 	  </msContents>
+		</msPart>
 	  <!-- LIST OF PRAYERS -->
 	  <!-- 16v (miniature) 17r (opening) - 64v13 : Vor Frue Tider --><!-- 17r-27r9 : Matins --><!-- 27r9-36v9 : Laudes --><!-- 36v9-40v5 : Primes --><!-- 40v5-43v15 : Tertia --><!-- 44r1-47r15 : Sexte --><!-- 47r15-50v14 : Nones --><!-- 50v14-57v13 : Vesper --><!-- 57v14-64v13 : Complet -->
 	  <!-- 64v14 (rubric) 65r1 (initial) - 72r15: Holy Cross Hours --><!-- 65r1-66v9 : Intro (Matins?) --><!-- 66v10-67v14 : Prime --><!-- 67v15-68v11 : Tertie --><!-- 68v11-69v6 : Sexte --><!-- 69v6-70v4 : Nones --><!-- 70v5-71v2 : Vespers --><!-- 71v3-72r15 : Complete -->
@@ -329,261 +601,14 @@
 	  <!-- 101v12-104v12 : Prayers for indulgences -->
 	  <!-- PART II -->
 	  <!-- 105r1- : Prayers -->
-	  <physDesc>
-	    <objectDesc form="codex">
-	      <supportDesc material="perg">
-		<support>
-		  <p>
-		    <material>Pergament</material>
-		    .
-		  </p>
-		</support>
-		<extent>
-		  i + 172 + i; bl. 13v-16
-		  <hi rend="sup">bis</hi>
-		  r, 72v og 171 er blanke.
-		  <dimensions type="leaf" scope="all">
-		    <height>143</height>
-		    <width>102</width>
-		  </dimensions>
-		</extent>
-		<foliation>
-		  <p>
-		    Folieret 1-172 af
-		    <name type="person" key="KriKaa001">
-		      Kristian Kålund
-		    </name>
-		    inkl. fribladene 6
-		    <hi rend="sup">bis</hi>
-		    og 16
-		    <hi rend="sup">bis</hi>
-		    .
-		  </p>
-		</foliation>
-		<collation>
-		  <p><list>
-		    <item>I: fols. 2-8</item>
-		    <item>II: fols. 9-16</item>
-		    <item>III: fols. 16bis-24</item>
-		    <item>IV: fols. 25-32</item>
-		    <item>V: fols. 33-40</item>
-		    <item>VI: fols. 41-48</item>
-		    <item>VII: fols. 49-56</item>
-		    <item>VIII: fols. 57-64</item>
-		    <item>IX: fols. 65-72</item>
-		    <item>X: fols. 73-80</item>
-		    <item>XI: fols. 81-86</item>
-		    <item>XII: fols. 87-94</item>
-		    <item>XIII: fols. 95-104</item>
-		    <item>XIV: fols. 105-112</item>
-		    <item>XV: fols. 113-119</item>
-		    <item>XVI: fols. 120-127</item>
-		    <item>XVII: fols. 128-135</item>
-		    <item>XVIII: fols. 136-143</item>
-		    <item>XIX: fols. 144-151</item>
-		    <item>XX: fols. 152-159</item>
-		    <item>XXI: fols. 160-167</item>
-		    <item>XXII: fols. 168-172</item>
-		  </list></p>
-		</collation>
-	      </supportDesc>
-	      <layoutDesc>
-		<layout columns="1">
-		  <p>
-		    Kalendariet er enkeltspaltet med 16-17 linjer pr. side, understreget med rødt blæk.
-		  </p>
-		  <p>
-		    Bønnerne er enkeltspaltede med 15-16 linjer pr. side.
-		  </p>
-		  <p>
-		    Røde og blå majuskler på 1-2 linjer. Røde rubrikker og en enkelt blå.
-		  </p>
-		</layout>
-	      </layoutDesc>
-	    </objectDesc>
-	    <decoDesc>
-	      <decoNote type="initial" subtype="initial">
-		<p>
-		  Røde eller blå fleuronné-initialer på 3-11 linjer, nogle er forgyldte. Blomster-motiver (hvide, gule og nogen gange grønne) enten indeni initialet eller i rammen rundt om initialet.
-		</p>
-	      </decoNote>
-	      <decoNote type="initial" subtype="initial">
-		<p>
-		  På bl. 105r er der et blåt forgyldt fleuronné-initial.
-		</p>
-	      </decoNote>
-	      <decoNote type="mixed">
-		<p>
-		  På bl. 73r er der et stort initial, et blåt
-		  <term>
-		    littera florissa
-		  </term>
-		  i en forgyldt ramme med blomster. Den har også en ramme med røde og blå blomster med røde, grønne og guldblade.
-		</p>
-	      </decoNote>
-	      <decoNote type="diagram">
-		<p>Bl. 2-12 optages af et kalendarium.</p>
-	      </decoNote>
-	      <decoNote type="diagram">
-		<p>Bl. 13r optages af en komputistisk tabel.</p>
-	      </decoNote>
-	      <decoNote type="miniature">
-		<p>
-		  Der er to miniaturer:
-		  <list>
-		    <item>
-		      Bl. 16
-		      <hi rend="sup">bis</hi>
-		      v: Initial med Mariæ bebudelse. Jomfru Maria står foran en læsepult med en åben bog i et værelse med loftshvælvinger. Hun er klædt i folderige gevandter, hendes hår falder ned over hendes skuldre, og om hendes hoved er der en tynd gylden glorie. Ærkeenglen Gabriel står til venstre for hende; også han er i folderige gevandter, og han holder et scepter (?) i sin venstre hånd, hans højre er løftet til velsignelse. Helligånden er afbildet som en hvid due, og tre gyldne lysstråler stråler ud af Jomfru Maria. Billedet er indrammet, og i rammen er der strøet naturalistiske planter: roser, ærteblomster, stedmoderblomster og en snegl.
-		    </item>
-		    <item>
-		      Bl. 17r: Initial med Kristi fødsel. I forgrunden ser vi den knælende Jomfru Maria; Jesusbarnet ligger foran hende på en blå kappe. Igen er Jomfru Maria afbildet med en tynd glorie og klædt i folderige gevandter. Jesusbarnet har guldstråler, der stråler ud af ham. Bagved moren og barnet ser vi stalden med oksen og æslet; Josef er på vej mod stalden med pinde i hænderne. I baggrunden er der et aftenlandskab med en orange og violet himmel. Under initialet er der 3 linjer tekst. Billedet er indrammet. I den øverste del af rammen er der en mørkeblå stjernehimmel og to syngende engle (den ene holder en skriftrulle). I den nederste del af rammen er der hyrder på marken, som holder nattevagt over deres hjord.
-		    </item>
-		  </list>
-		</p>
-	      </decoNote>
-	    </decoDesc>
-	    <additions>
-	      <p>Penneprøver på bl. 14r og 172r.</p>
-	    </additions>
-	    <bindingDesc>
-	      <binding notBefore="1401" notAfter="1500" contemporary="unknown">
-		<p>
-		  Håndskriftet er indbundet i et brunt, blindtrykt læderbind, oprindelig med to spænder. Bindstørrelse:
-		  <dimensions type="binding">
-		    <height>150</height>
-		    <width>103</width>
-		    <depth>46</depth>
-		  </dimensions>
-		  .
-		</p>
-	      </binding>
-	    </bindingDesc>
-	    <accMat>
-	      <p>
-		Der er en AM-seddel, skrevet af
-		<name type="person" key="ArnMag001">Arne Magnusson</name>
-		, som er sat fast til forpermen:
-		<q xml:lang="la">
-		  Ex auctione
-		  <name type="person" key="FreRos001">Rostgardianâ</name>
-		  . Num. 345
-		</q>
-		.
-	      </p>
-	    </accMat>
-	  </physDesc>
-	  <history>
-	    <origin>
-	      <p>
-		Håndskriftet er skrevet i
-		<origPlace>Holland</origPlace>
-		i
-		<origDate notBefore="1400" notAfter="1499" cert="high" evidence="conjecture" resp="KKKat">1400-tallet</origDate>
-		.
-	      </p>
-	    </origin>
-	    <provenance>
-	      <p>
-		Bogen har tilhørt
-		<name type="person" key="FreRos001">
-		  Frederik Rostgaard
-		</name>
-		.
-	      </p>
-	    </provenance>
-	    <acquisition>
-	      <p>
-		Ifølge AM-sedlen har
-		<name type="person" key="ArnMag001">Arne Magnusson</name>
-		erhvervet håndskriftet på
-		<name type="person" key="FreRos001">Frederik Rostgaard</name>
-		s auktion i
-		<date when="1726">1726</date>
-		.
-	      </p>
-	    </acquisition>
-	  </history>
-	  <additional>
-	    <adminInfo>
-	      <recordHist>
-		<source>
-		  <p>
-		    Katalogiseret
-		    <date when="2000-04-05">5. april 2000</date>
-		    af
-		    <name type="person" key="EvaWed001">EW-J</name>
-		    .
-		  </p>
-		</source>
-	      </recordHist>
-	      <custodialHist>
-		<custEvent type="photography">
-		  <p>
-		    Håndskriftet er blevet fotograferet to gange; første gang i
-		    <date when="1960">1960</date>
-		    ; supplerende fotografier fra
-		    <date when="1968-08-26">26. august 1968</date>
-		    .
-		  </p>
-		</custEvent>
-		<custEvent type="loan">
-		  <p>
-		    Håndskriftet blev udlånt til
-		    <name type="org">
-		      Det Kongelige Bibliotek
-		    </name>
-		    til
-		    <name type="person" key="CCol01">
-		      C. Colin
-		    </name>
-		    <date from="1977-10-28" to="1977-11-01">
-		      28. oktober 1977-1. november 1977
-		    </date>
-		    .
-		  </p>
-		</custEvent>
-	      </custodialHist>
-	    </adminInfo>
-	    <surrogates>
-	      <p>
-		<listBibl>
-		  <bibl>
-		    <title type="gmd">mikrofilm (originaler)</title>
-		    <idno>G.neg.207</idno>
-		    <date when="1960"/>
-		  </bibl>
-		  <bibl>
-		    <title type="gmd">mikrofilm (arkiv)</title>
-		    <idno>G.pos.241</idno>
-		    <date when="1960"/>
-		  </bibl>
-		  <bibl>
-		    <title type="gmd">mikrofilm (originaler)</title>
-		    <idno>Neg. 939</idno>
-		    <date when="1968-08-26"/>
-		    <note>Supplerende fotografier</note>
-		  </bibl>
-		  <bibl>
-		    <title type="gmd">mikrofilm (arkiv)</title>
-		    <idno>Pos. 830</idno>
-		    <date when="1968-08-26"/>
-		    <note>Supplerende fotografier</note>
-		  </bibl>
-		</listBibl>
-	      </p>
-	    </surrogates>
-	    <listBibl>
-	      <bibl>
-		Kålund:
-		<ref type="secondary-1" target="KKKat">Katalog</ref>
-		<biblScope type="volume">II</biblScope>
-		<biblScope type="pages">375</biblScope>
-	      </bibl>
-	    </listBibl>
-	  </additional>
+	  
+	  
+	  
 	</msDesc>
       </sourceDesc>
     </fileDesc>
   </teiHeader>
+	<facsimile>
+		<surface/>
+	</facsimile>
 </TEI>

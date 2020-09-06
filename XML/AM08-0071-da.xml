@@ -1,0 +1,723 @@
+<?oxygen
+RNGSchema="http://www.handrit.is/schema/handrit-1.0.rnc" type="compact"
+?>
+<?xml-stylesheet type="text/css" href="msDesc.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">AM 71 8vo</title>
+      </titleStmt>
+      <publicationStmt>
+        <authority>Den Arnamagnæanske Samling</authority>
+        <pubPlace>København</pubPlace>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc xml:id="AM08-071-da" xml:lang="da">
+          <msIdentifier>
+            <country>Danmark</country>
+            <settlement>København</settlement>
+            <repository>Den Arnamagnæanske Samling</repository>
+            <idno>AM 71 8vo</idno>
+            <altIdentifier type="internal" subtype="KKKat">
+              <idno>2274</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <head>
+            <title type="supplied">Bønnebog</title>
+            <origPlace>Holland</origPlace>
+            <origDate notBefore="1400" notAfter="1499" evidence="conjecture" resp="KKKat">s.
+              XV</origDate>
+          </head>
+          <physDesc>
+            <objectDesc form="codex">
+              <supportDesc material="perg">
+                <support>
+                  <p>
+                    <material>Pergament</material> . </p>
+                </support>
+                <extent> i + 172 + i; bl. 13v-16 <hi rend="sup">bis</hi> r, 72v og 171 er blanke.
+                    <dimensions type="leaf" scope="all">
+                    <height>143</height>
+                    <width>102</width>
+                  </dimensions>
+                </extent>
+                <foliation>
+                  <p> Folieret 1-172 af <name type="person" key="KriKaa001"> Kristian Kålund </name>
+                    inkl. fribladene 6 <hi rend="sup">bis</hi> og 16 <hi rend="sup">bis</hi> . </p>
+                </foliation>
+                <collation>
+                  <p><list>
+                      <item>I: fols. 2-8 (2+8, 3+7, 4+6bis, 5+6)</item>
+                      <item>II: fols. 9-16 (9+16, 10+15, 11+14, 12+13)</item>
+                      <item>III: fols. 16bis-24 (16bis med fals tilbage til 24v, 17+24, 18+23,
+                        19+22, 20+21)</item>
+                      <item>IV: fols. 25-32 (25+32, 26+31, 27+30, 28+29)</item>
+                      <item>V: fols. 33-40 (33+40, 34+39, 35+38, 36+37)</item>
+                      <item>VI: fols. 41-48 (41+48, 42+47, 43+46, 44+45)</item>
+                      <item>VII: fols. 49-56 (49+56, 50+55, 51+54, 52+53)</item>
+                      <item>VIII: fols. 57-64 (57+64, 58+63, 59+62, 60+61)</item>
+                      <item>IX: fols. 65-72 (65+72, 66+71, 67+70, 68+69)</item>
+                      <item>X: fols. 73-80 (73+80, 74+79, 75+78, 76+77)</item>
+                      <item>XI: fols. 81-86 (81+86, 82+85, 83+84)</item>
+                      <item>XII: fols. 87-94 (87+94, 88+93, 89+92, 90+91)</item>
+                      <item>XIII: fols. 95-104 (95+104, 96+103, 97+102, 98+101, 99+100)</item>
+                      <item>XIV: fols. 105-112 (105+112, 106+111, 107+110, 108+109)</item>
+                      <item>XV: fols. 113-119 (113+119, 114+118, 115 med fals tilbage til 117v,
+                        116+117)</item>
+                      <item>XVI: fols. 120-127 (120+127, 121+126, 122+125, 123+124)</item>
+                      <item>XVII: fols. 128-135 (128+135, 129+134, 130+133, 131+132)</item>
+                      <item>XVIII: fols. 136-143 (136+143, 137+142, 138+141, 139+140)</item>
+                      <item>XIX: fols. 144-151 (144+151, 145+150, 146+149, 147+148)</item>
+                      <item>XX: fols. 152-159 (152+159, 153+158, 154+157, 155+156)</item>
+                      <item>XXI: fols. 160-167 (160+167, 161+166, 162+165, 163+164)</item>
+                      <item>XXII: fols. 168-172 (168+forsats, 169+172, 170+171)</item>
+                    </list></p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1">
+                  <p> Kalendariet er enkeltspaltet med 16-17 linjer pr. side, understreget med rødt
+                    blæk. </p>
+                  <p> Bønnerne er enkeltspaltede med 15-16 linjer pr. side. </p>
+                  <p> Røde og blå majuskler på 1-2 linjer. Røde rubrikker og en enkelt blå. </p>
+                </layout>
+              </layoutDesc>
+            </objectDesc>
+            <decoDesc>
+              <decoNote type="initial" subtype="initial">
+                <p> Røde eller blå fleuronné-initialer på 3-11 linjer, nogle er forgyldte.
+                  Blomster-motiver (hvide, gule og nogen gange grønne) enten indeni initialet eller
+                  i rammen rundt om initialet. </p>
+              </decoNote>
+              <decoNote type="initial" subtype="initial">
+                <p> På bl. 105r er der et blåt forgyldt fleuronné-initial. </p>
+              </decoNote>
+              <decoNote type="mixed">
+                <p> På bl. 73r er der et stort initial, et blåt <term> littera florissa </term> i en
+                  forgyldt ramme med blomster. Den har også en ramme med røde og blå blomster med
+                  røde, grønne og guldblade. </p>
+              </decoNote>
+              <decoNote type="diagram">
+                <p>Bl. 2-12 optages af et kalendarium.</p>
+              </decoNote>
+              <decoNote type="diagram">
+                <p>Bl. 13r optages af en komputistisk tabel.</p>
+              </decoNote>
+              <decoNote type="miniature">
+                <p> Der er to miniaturer: <list>
+                    <item> Bl. 16 <hi rend="sup">bis</hi> v: Miniatur med Mariæ bebudelse. Jomfru
+                      Maria står foran en læsepult med en åben bog i et værelse med loftshvælvinger.
+                      Hun er klædt i folderige gevandter, hendes hår falder ned over hendes skuldre,
+                      og om hendes hoved er der en tynd gylden glorie. Ærkeenglen Gabriel står til
+                      venstre for hende; også han er i folderige gevandter, og han holder et scepter
+                      i sin venstre hånd, hans højre er løftet til velsignelse. Helligånden er
+                      afbildet som en hvid due, og tre gyldne lysstråler stråler ud af Jomfru Maria.
+                      Billedet er indrammet, og i rammen er der strøet naturalistiske planter:
+                      roser, ærteblomster, stedmoderblomster og en snegl. Stilen pejer på de
+                      hollandske Sorte-øjne-mestre (Zwarte-ogen-meesters).</item>
+                    <item> Bl. 17r: Initial med Kristi fødsel. I forgrunden ser vi den knælende
+                      Jomfru Maria; Jesusbarnet ligger foran hende på en blå kappe. Igen er Jomfru
+                      Maria afbildet med en tynd glorie og klædt i folderige gevandter. Jesusbarnet
+                      har guldstråler, der stråler ud af ham. Bagved moren og barnet ser vi stalden
+                      med oksen og æslet; Josef er på vej mod stalden med pinde i hænderne. I
+                      baggrunden er der et aftenlandskab med en orange og violet himmel. Under
+                      initialet er der 3 linjer tekst. Billedet er indrammet. I den øverste del af
+                      rammen er der en mørkeblå stjernehimmel og to syngende engle (den ene holder
+                      en skriftrulle). I den nederste del af rammen er der hyrder på marken, som
+                      holder nattevagt over deres hjord. </item>
+                  </list>
+                </p>
+              </decoNote>
+            </decoDesc>
+            <additions>
+              <p>Penneprøver på bl. 14r og 172r.</p>
+            </additions>
+            <bindingDesc>
+              <binding notBefore="1401" notAfter="1500" contemporary="unknown">
+                <p> Håndskriftet er indbundet i et brunt, blindtrykt læderbind, oprindelig med to
+                  spænder. Bindstørrelse: <dimensions type="binding">
+                    <height>150</height>
+                    <width>103</width>
+                    <depth>46</depth>
+                  </dimensions> . </p>
+              </binding>
+            </bindingDesc>
+            <accMat>
+              <p> Der er en AM-seddel, skrevet af <name type="person" key="ArnMag001">Arne
+                  Magnusson</name> , som er sat fast til forpermen: <q xml:lang="la"> Ex auctione
+                    <name type="person" key="FreRos001">Rostgardianâ</name> . Num. 345 </q> . </p>
+            </accMat>
+          </physDesc>
+          <history>
+            <origin>
+              <p> Håndskriftet er skrevet i <origPlace>Holland</origPlace> i <origDate
+                  notBefore="1400" notAfter="1499" cert="high" evidence="conjecture" resp="KKKat"
+                  >1400-tallet</origDate> . </p>
+            </origin>
+            <provenance>
+              <p> Bogen har tilhørt <name type="person" key="FreRos001"> Frederik Rostgaard </name>
+                . </p>
+            </provenance>
+            <acquisition>
+              <p> Ifølge AM-sedlen har <name type="person" key="ArnMag001">Arne Magnusson</name>
+                erhvervet håndskriftet på <name type="person" key="FreRos001">Frederik
+                  Rostgaard</name> s auktion i <date when="1726">1726</date> . </p>
+            </acquisition>
+          </history>
+          <additional>
+            <adminInfo>
+              <recordHist>
+                <source>
+                  <p> Katalogiseret <date when="2000-04-05">5. april 2000</date> af <name
+                      type="person" key="EvaWed001">EW-J</name> . Opdateret <date when="2020-09-06"
+                      >6. september 2020</date> af <name type="person" key="SeaVri">SDV</name>.</p>
+                </source>
+              </recordHist>
+              <custodialHist>
+                <custEvent type="photography">
+                  <p> Håndskriftet er blevet fotograferet to gange; første gang i <date when="1960"
+                      >1960</date> ; supplerende fotografier fra <date when="1968-08-26">26. august
+                      1968</date> . </p>
+                </custEvent>
+                <custEvent type="loan">
+                  <p> Håndskriftet blev udlånt til <name type="org"> Det Kongelige Bibliotek </name>
+                    til <name type="person" key="CCol01"> C. Colin </name>
+                    <date from="1977-10-28" to="1977-11-01"> 28. oktober 1977-1. november 1977
+                    </date> . </p>
+                </custEvent>
+              </custodialHist>
+            </adminInfo>
+            <surrogates>
+              <p>
+                <listBibl>
+                  <bibl>
+                    <title type="gmd">mikrofilm (originaler)</title>
+                    <idno>G.neg.207</idno>
+                    <date when="1960"/>
+                  </bibl>
+                  <bibl>
+                    <title type="gmd">mikrofilm (arkiv)</title>
+                    <idno>G.pos.241</idno>
+                    <date when="1960"/>
+                  </bibl>
+                  <bibl>
+                    <title type="gmd">mikrofilm (originaler)</title>
+                    <idno>Neg. 939</idno>
+                    <date when="1968-08-26"/>
+                    <note>Supplerende fotografier</note>
+                  </bibl>
+                  <bibl>
+                    <title type="gmd">mikrofilm (arkiv)</title>
+                    <idno>Pos. 830</idno>
+                    <date when="1968-08-26"/>
+                    <note>Supplerende fotografier</note>
+                  </bibl>
+                </listBibl>
+              </p>
+            </surrogates>
+            <listBibl>
+              <bibl> Kålund: <ref type="secondary-1" target="KKKat">Katalog</ref>
+                <biblScope type="volume">II</biblScope>
+                <biblScope type="pages">375</biblScope>
+              </bibl>
+              <bibl>
+                <ref type="secondary-1" target="SeaVrie2019">Vrieland 2019</ref>
+                <biblScope type="pages">97-104</biblScope>
+              </bibl>
+            </listBibl>
+          </additional>
+          <msPart>
+            <altIdentifier type="partial">
+              <idno>Del 1</idno>
+            </altIdentifier>
+            <msContents>
+              <summary><title type="supplied">Geert Grotes bønnebog</title></summary>
+              <msItem n="1">
+                <locus from="2" facs="#AM08-071-0002r" to="12">2-12</locus>
+                <title type="supplied">Kalendar</title>
+                <textLang mainLang="la">Latin</textLang>
+                <note>For <placeName key="UtrHol01">Utrecht</placeName> stift.</note>
+              </msItem>
+              <msItem n="2">
+                <locus facs="#AM08-071-0013r">13r</locus>
+                <title type="supplied">Komputistisk tabel</title>
+              </msItem>
+              <msItem n="3">
+                <locus from="16v" to="63v">13v-63v6</locus>
+                <title type="uniform" xml:lang="da">Vor Frue Tider</title>
+                <title type="parallel" xml:lang="du">Kleine Officie van Onze Lieve Vrouw</title>
+                <title type="alternate" xml:lang="du">Mariegetijden</title>
+                <author key="GerGro001">Geert Groote</author>
+                <textLang mainLang="nl" otherLangs="la">Middelnederlandsk, latin</textLang>
+                <incipit>HEre du ſalſte opden mijn lippen</incipit>
+                <explicit>inde<expan>n</expan> hemel regnierende ouermits chriſtum onſen here
+                  Amen</explicit>
+                <msItem n="3.1">
+                  <locus from="17r" to="27r">17r-27r9</locus>
+                  <title type="supplied">Matutin</title>
+                </msItem>
+                <msItem n="3.2">
+                  <locus from="27r" to="36v">27r9-36v9</locus>
+                  <title type="supplied">Laudes</title>
+                </msItem>
+                <msItem n="3.3">
+                  <locus from="36v" to="40v">36v9-40v5</locus>
+                  <title type="supplied">Prim</title>
+                </msItem>
+                <msItem n="3.4">
+                  <locus from="40v" to="43v">40v5-43v15</locus>
+                  <title type="supplied">Terts</title>
+                </msItem>
+                <msItem n="3.5">
+                  <locus from="44r" to="47r">44r1-47r15</locus>
+                  <title type="supplied">Sext</title>
+                </msItem>
+                <msItem n="3.6">
+                  <locus from="47r" to="50v">47r15-50v14</locus>
+                  <title type="supplied">Non</title>
+                </msItem>
+                <msItem n="3.7">
+                  <locus from="50v" to="57v"> 50v14-57v13</locus>
+                  <title type="supplied">Vesper</title>
+                </msItem>
+                <msItem n="3.8">
+                  <locus from="57v" to="64v">57v14-64v13</locus>
+                  <title type="supplied">Completorium</title>
+                </msItem>
+                <msItem n="3.9">
+                  <locus from="63v" to="64r">63v7-64r8</locus>
+                  <title type="supplied">Bøn til Jomfru Maria</title>
+                  <rubric>Een lof ſanck tot maria moed<expan>er</expan> gods</rubric>
+                  <incipit>HOghe moeder ons verloſſers</incipit>
+                  <explicit>Here ih<expan>es</expan>u chriſte die alre glorioeſte maghet
+                    maria</explicit>
+                  <colophon>leeſt voert wt als doer ſtaet</colophon>
+                </msItem>
+                <msItem n="3.10">
+                  <locus from="64r" to="64v">64r8-64v13</locus>
+                  <title type="uniform">Regina cœli</title>
+                  <rubric>Regina celi letare All<expan>elui</expan>a in duuſſch
+                      datme<expan>n</expan> te paſſche<expan>n</expan> sÿnghet int lof</rubric>
+                  <incipit>COninghi<expan>n</expan>ne der hemele<expan>n</expan> verblijt v
+                    alleluia</incipit>
+                  <explicit>inde<expan>n</expan> hemel regnierende ouermits chriſtum onſen here
+                    Amen</explicit>
+                </msItem>
+              </msItem>
+              <msItem n="4">
+                <locus from="64v" to="72r">64v14-72r15</locus>
+                <title type="supplied">Korte Getijden van het Heilige Kruis</title>
+                <rubric>Hier volghet die heilic cruus ghetide</rubric>
+                <incipit>HEre du ſalſte opdoen mijn lippen</incipit>
+                <explicit>en<expan>de</expan> vander vrucht dijns bloets altijt
+                  v<expan>er</expan>blijden</explicit>
+                <msItem n="4.1">
+                  <title type="supplied">Matutin</title>
+                </msItem>
+                <msItem n="4.2">
+                  <title type="supplied">Prim</title>
+                </msItem>
+                <msItem n="4.3">
+                  <title type="supplied">Terts</title>
+                </msItem>
+                <msItem n="4.4">
+                  <title type="supplied">Sext</title>
+                </msItem>
+                <msItem n="4.5">
+                  <title type="supplied">Non</title>
+                </msItem>
+                <msItem n="4.6">
+                  <title type="supplied">Vesper</title>
+                </msItem>
+                <msItem n="4.7">
+                  <title type="supplied">Completorium</title>
+                </msItem>
+              </msItem>
+              <!-- 64v14 (rubric) 65r1 (initial) - 72r15: Holy Cross Hours -->
+              <!-- 65r1-66v9 : Intro (Matins?) -->
+              <!-- 66v10-67v14 : Prime -->
+              <!-- 67v15-68v11 : Tertie -->
+              <!-- 68v11-69v6 : Sexte -->
+              <!-- 69v6-70v4 : Nones -->
+              <!-- 70v5-71v2 : Vespers -->
+              <!-- 71v3-72r15 : Complete -->
+            </msContents>
+            <history>
+              <origin><p>Skrevet efter <origDate notBefore="1471">1471</origDate> i Grevskabet
+                    <origPlace key="Holla01">Holland</origPlace>, muligvis <origPlace
+                    key="Rotterdam01">Rotterdam</origPlace> (<bibl><ref type="secondary"
+                      target="SeaVri2019">Vrieland 2019</ref><biblScope type="pages"
+                    >103</biblScope></bibl>).</p></origin>
+            </history>
+          </msPart>
+          <msPart>
+            <altIdentifier type="partial">
+              <idno>Del 2</idno>
+            </altIdentifier>
+            <msContents>
+              <msItem n="5">
+                <locus from="73r" to="101v">73r1-101v12</locus>
+                <title type="supplied">De zeven boetepsalmen</title>
+                <incipit>HEre in dijnre verbolgenheit en ſtraffe mi niet</incipit>
+                <explicit>Die mitti leuet en<expan>de</expan> regniert ewelic ſonder eynde
+                  Amen</explicit>
+              </msItem>
+              <!-- 73r1-101v12 : De Zeven Boetepsalmen / Seven Psalms of Penitence-->
+              <!-- 73r1-74r11: Psalm 6 -->
+              <!-- 74r11-75v14: Psalm 31 (32) -->
+              <!-- 75v14-78r6 : Psalm 37 (38)-->
+              <!-- 78r6-80r11 : Psalm 50 (51) Rubric "Miſe(re)re mei"-->
+              <!-- 80r12-83r15 : Psalm 101 (102) -->
+              <!-- 83r15-84r4 : Psalm 129 (130) -->
+              <!-- 84r4-85v11 : Psalm 142 (143): Ends with full Gloria Patri -->
+              <!-- 85v11-101v12 : Litany -->
+              <msItem n="6">
+                <locus from="101v" to="104v">101v-104v</locus>
+                <title type="supplied">Bønner</title>
+                <msItem n="6.1">
+                  <locus from="101v" to="103r">101v12-103r13</locus>
+                  <title type="supplied">Afledsbøn</title>
+                  <rubric>Twe duſent iaer aflaets werden v<expan>er</expan>leent ene<expan>n</expan>
+                    yghelicken mensche die dit gebet leeſt onder die heffinge des lichams
+                      <expan>Christi</expan> onder derde agu<expan>er</expan> dei
+                      va<expan>n</expan>de<expan>n</expan> ſeſte paus bonifacius</rubric>
+                  <incipit>O Heer iheſu <expan>Christi</expan> die aengenomen hebſte</incipit>
+                  <explicit>En<expan>de</expan> v<expan>er</expan>leens ons dat ewileuen ſonder
+                    eynde Amen</explicit>
+                </msItem>
+                <msItem n="6.2">
+                  <locus from="101r" to="104r">103r14-104r6</locus>
+                  <title type="supplied">Bøn til Jomfru Maria</title>
+                  <rubric>Dit is een ſunerlick gebeet va<expan>n</expan> onſer lieuer vrouwen
+                    maria</rubric>
+                  <incipit>O Heilighe maria ſterne des meers</incipit>
+                  <explicit>En<expan>de</expan> die ewige blijtſcappen mit hoer te beſitten in der
+                    ewiger glorien Amen</explicit>
+                </msItem>
+                <msItem n="6.3">
+                  <locus from="104r" to="104v">104r6-104v12</locus>
+                  <title type="supplied">Bøn til Sankt Barbara</title>
+                  <rubric>Dit is een guet gebet vander heiliger ioffrouwen en<expan>de</expan>
+                    martelersche s<expan>an</expan>c<expan>t</expan>e
+                    barb<expan>ara</expan></rubric>
+                  <incipit>O Heilige maget ende bruut <expan>Christi</expan></incipit>
+                  <explicit>Op dat ic doer v heilige v<expan>er</expan>dienſte onbeulect mach liden
+                    vander doet in dat ewige leuen AmEN</explicit>
+                </msItem>
+              </msItem>
+            </msContents>
+            <history>
+              <origin><p>Skrevet i den østlige del af <origPlace key="Holla01"
+                    >Nederlandene</origPlace>, muligvis <origPlace key="Brabant01"
+                    >Brabant</origPlace>, i første halvdel af <origDate notBefore="1400"
+                    notAfter="1449">1400-tallet</origDate> (<bibl><ref type="secondary"
+                      target="SeaVri2019">Vrieland 2019</ref><biblScope type="pages"
+                    >103</biblScope></bibl>).</p></origin>
+            </history>
+          </msPart>
+          <msPart>
+            <altIdentifier type="partial">
+              <idno>Del 3</idno>
+            </altIdentifier>
+            <msContents>
+              <msItem n="7" defective="true">
+                <locus from="105r" to="130v">105r-130v3</locus>
+                <title type="uniform" xml:lang="da">Syv Bodssalmer med Litaniet</title>
+                <title type="parallel" xml:lang="du">Zeven boetepsalmen met Litanie</title>
+                <rubric>Deſen ghebeden ſelmen leſe<expan>n</expan> op die ſeuen pſalmen
+                    mitt<expan>n</expan> letanye<expan>n</expan> voer die doden ſielen mit
+                  ynnicheit</rubric>
+                <incipit>IN die eere der heiligher drieuoudicheit ende dy<expan>n</expan>s alre
+                  duerbaerſten bloets</incipit>
+                <explicit>So helpt deſe ſiele mit alle ghelouighe ſielen wt alre noot
+                    Ame<expan>n</expan></explicit>
+
+                <msItem n="7.1">
+                  <locus from="105r" to="112v">105r-112v</locus>
+                  <title type="uniform" xml:lang="da">Syv bodssalmer</title>
+                  <title type="parallel" xml:lang="du">Zeven Boetepsalmen</title>
+                </msItem>
+                <msItem n="7.2" defective="true">
+                  <locus from="112v" to="130v">112v-130v</locus>
+                  <title type="uniform" xml:lang="da">Alle Helgens Litani</title>
+                  <title type="parallel" xml:lang="du">Litanie van alle Heiligen</title>
+                  <rubric>Letanÿen</rubric>
+                  <incipit>HEre ontferme di onser</incipit>
+                  <explicit>So helpt deſe ſiele mit alle ghelouighe ſielen wt alre noot
+                      Ame<expan>n</expan></explicit>
+                  <note>Et blad mangler mellem ff. <locus from="117v" to="118r"
+                    >117v-118r</locus>.</note>
+                </msItem>
+              </msItem>
+              <msItem>
+                <locus from="130v" to="131r">130v4-131r10</locus>
+                <title type="supplied">Afledsbøn</title>
+                <rubric>Alle die ghene die dit naeuolge<expan>n</expan>de ghebet deuotelic leſen
+                  voer alle ghelouighe ſielen die inder kercken of op den kerchoue of op anderen
+                  ghewiden ſteden begraue<expan>n</expan> ſijn Die moghe<expan>n</expan>
+                    v<expan>er</expan>diene<expan>n</expan> va<expan>n</expan> een yghelich
+                    lichae<expan>m</expan> ho<expan>n</expan>dert daghe oflaets</rubric>
+                <incipit>GHegruet ſalich weluaende ende ruſtende inde<expan>n</expan> helighen
+                  vrede</incipit>
+                <explicit>Op dat wi weerdich moghen werden mit v in den hemel ghecroent te
+                    w<expan>er</expan>den Amen</explicit>
+                <colophon>Bidt voer mi ſuſter</colophon>
+              </msItem>
+              <msItem>
+                <locus from="131r" to="136r">131r11-136r16</locus>
+                <title type="supplied">Messen</title>
+                <rubric>Een kerſten menſche die begeert te come<expan>n</expan>
+                    totte<expan>n</expan> ewighen leue<expan>n</expan> die ſel gheern miſſe
+                    hore<expan>n</expan> Ende daer in ſel hi hem aldus oeffenen</rubric>
+                <incipit>TEn erſten alſme<expan>n</expan> die miſſe beghint dan ſal een menſche
+                  neder vallen voer die voeten gods</incipit>
+                <explicit>TEn wijfte mael int leſt va<expan>n</expan>der miſſen
+                    ſelme<expan>n</expan> onſe lieue vrouwe aenroepen en<expan>de</expan>
+                    bidde<expan>n</expan> dat ſi ons gracie wil
+                    v<expan>er</expan>werue<expan>n</expan> en<expan>de</expan> leſen dan drie Aue
+                    m<expan>ari</expan>a Of ee<expan>n</expan> ghebedeken tot hoere eeren</explicit>
+              </msItem>
+              <msItem>
+                <locus from="136v" to="138v">136r1-138v5</locus>
+                <title type="supplied">Bøn til Josef</title>
+                <rubric>Een ghebet van ſinte Joseph maria brugom</rubric>
+                <incipit>O Heilighe vader ioſeph ic dancke v alle<expan>n</expan> oghen opſlach van
+                  nu tot inder ewicheit van uwen eerwerdighen dienſt</incipit>
+                <explicit>Ende ghebenidijt is die vrucht die ghi ons opgheuoet hebt iheſus chriſtus
+                  Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="138v" to="141r">138v5-141r9</locus>
+                <title type="uniform">O bone Iesu</title>
+                <rubric>Dit nauolghe<expan>n</expan>de ghebet was ghegeuen biden enghel gods den
+                  heilighen man ſinte bernaert een ſonderlinghe liefhebber der moeder gods maria
+                  velc enghel tot hem ſprac aldus Soe als dat gout dat costelicſte ende dat alre
+                  weerdichſte is ſoe is dit ghebet dat bequae<expan>m</expan>ſte En<expan>de</expan>
+                  ſoe wat me<expan>n</expan>ſche<expan>n</expan> dit leeſen mit berou ſijn ſi in die
+                  ſtaet der verdoemniſſe ſoe ſel dat v<expan>er</expan>uandelt
+                    w<expan>er</expan>de<expan>n</expan> i<expan>n</expan> tijtelicke pinde</rubric>
+                <incipit>O Goede iheſu O ſoete iheſu</incipit>
+                <explicit>Oec mede in al mine wederſpoet lijſaemheit en<expan>de</expan> heilighe
+                  penitencie op dat ic di mach voltomelike my<expan>n</expan>ne<expan>n</expan> ende
+                  in di verbliden en<expan>de</expan> welluſten in der ewicheit Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="141r" to="142v">141r9-142v10</locus>
+                <title type="supplied">Bøn til andagt Jomfru Marias hjerte</title>
+                <rubric>Dit ghebet dat hier nauolghet heeft ghemaect die heilighe enghel ende heuet
+                  ghegeuen den ſeer deuoten confeſſoer ende abt ſinte bernaert ende is ſeer nuttelic
+                  gheleſen mit aendachten des herte tot maria</rubric>
+                <incipit>WEeſt ghegruet alre oetmoedichſte dienſtmaecht der heiligher
+                  drieuoudicheit</incipit>
+                <explicit>Ende ſonderlinghe in vre my<expan>n</expan>s doots ſoe ontfanct mijn ſiel
+                    en<expan>de</expan> offert die dijn alre ſueſte ſoen iheſum
+                    chriſtu<expan>m</expan> die mitti leuet en<expan>de</expan> regniret in ewicheit
+                  Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="142v" to="143r">142v10-143r11</locus>
+                <title type="supplied">Afledsbøn til Jomfru Maria</title>
+                <rubric>Sixtus die vierde paeus heeft ghegehuen ende werleent die dit gebet
+                  aenſiende tot maria leeſt die verdient elf duſent iaer waerachtich aflaet voer
+                  elke reyſe al ſo dic als ghyt leſet tot marie<expan>n</expan> die moeder
+                  gods</rubric>
+                <incipit>WEeſt ghegruet alre heilicſte maria moeder gods Coninghy<expan>n</expan>ne
+                  des hemels poerte des paradijs</incipit>
+                <explicit>Jn welken ic niet en twifel verloſt mi van alle<expan>n</expan> quaden
+                    en<expan>de</expan> bidt voer mi arme ſunder Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="143r" to="145r">143r11-145r14</locus>
+                <title type="supplied">Bøn til apostolerne</title>
+                <rubric>Van allen heilighen apoſtelen een ghebet</rubric>
+                <incipit>O Heilighe apoſtel peter du biſt een prijns der apoſtelen
+                    en<expan>de</expan> een hemels ſloteldragher</incipit>
+                <explicit>Doer iheſum chriſtum die daet leeſt ende regniert inder ewicheit
+                  Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="145r" to="146r">145r14-146r7</locus>
+                <title>Bøn til englerne</title>
+                <rubric>Een ghebet tot dijnen heilighen enghel</rubric>
+                <incipit>O Heilighe enghel gods die ic van gods weghen beuolen bin te
+                  bewaren</incipit>
+                <explicit>Nogh gheen onbehoerlike lieft in mijn en ſtorten op dat ic die di inder
+                  erden hebbe tot enen beſchermer mit di moet ſonder eynde verbliden in dat
+                  hemelſche rijcke Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="146r" to="146v">146r8-146v14</locus>
+                <title type="supplied">Bøn til Johannes døberen</title>
+                <rubric>Een ghebet tot ſinte Jan baptiſt</rubric>
+                <incipit>GOd gruete v ſte<expan>m</expan>me des ewighe<expan>n</expan> woerdes
+                  lantaer der werlt enghel van gode gheſonde</incipit>
+                <explicit>En<expan>de</expan> leidet mijn ſiel mit ghewarigher biechten mit berouwe
+                  van minen ſonde<expan>n</expan> ende mitte<expan>n</expan> heilighen oli
+                    en<expan>de</expan> mitte<expan>n</expan> waerden lichae<expan>m</expan> ons
+                  liefs heren iheſu chriſti ſonder letten der vianden in dat rijcke der hemelen
+                  Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="146v" to="147v">146v14-147v8</locus>
+                <title type="supplied">Bøn til Sankt Andreas</title>
+                <rubric>Vanden heilighen apoſten ſinte Andries een ghebet</rubric>
+                <incipit>GOedertieren vret gods ſunte andries en<expan>de</expan> ſachtmoedich ſeer
+                  heilighe apoſtel en<expan>de</expan> alre ſterchſte
+                  p<expan>re</expan>dicaer</incipit>
+                <explicit>Op dat ic mit di deelsachtich moet werde<expan>n</expan> der hemelſcher
+                  vroechden</explicit>
+              </msItem>
+              <msItem>
+                <locus from="147v" to="148r">147v9-148r10</locus>
+                <title type="supplied">Bøn til Sankt Laurentius</title>
+                <rubric>Tot den heilichſte martelaer S<expan>inte</expan> laurens</rubric>
+                <incipit>OP de<expan>n</expan> roeſter en heb ic di niet miſſaect
+                    en<expan>de</expan> doe<expan>n</expan> ic op dat vier gheleit was doe belijde
+                  ic di du proeueſte mijn herte en<expan>de</expan> du vandeſte mides
+                  nachtes</incipit>
+                <explicit>Ou<expan>er</expan>mits iheſum chriſtu<expan>m</expan> onſen
+                    h<expan>er</expan>e Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="148r" to="148v">148r10-148v14</locus>
+                <title type="supplied">Bøn til Sankt Martin</title>
+                <rubric>Een ghebet tot ſinte merten confeſſoer</rubric>
+                <incipit>SSaliche man wiens ſiel dat paradijs beſit daer die enghelen af
+                    verblide<expan>n</expan></incipit>
+                <explicit>Ou<supplied>er</supplied>mits onſen heer iheſum chriſtu<expan>m</expan>
+                  Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="148v" to="149v">148v14-149v3</locus>
+                <title>Bøn til Sankt Anna</title>
+                <rubric>Een ghebet van die weerdighe moeder ſinte Anna</rubric>
+                <incipit>DAt rijc der hemele<expan>n</expan> en<expan>de</expan> al die vroecht des
+                  paradijs hebdi verwonnen doer die vrucht dijns lichae<expan>m</expan>s die
+                  glorioſe maghet maria die een moeder is dijns heren iheſu chriſti die ſoe hebdi
+                    ontfanghe<expan>n</expan> ende ter werlt ghebracht</incipit>
+                <explicit>Weeſte ghegruet heilighe vrouwe Anna vol gracien die heer is mit di ghi
+                  ſijt ghebenedijt onder die vrouwe<expan>n</expan> ende ghebenedijt moet weſen die
+                  alder glorioſte vrucht dijns buyckes maria mit Jheſu den alder louelicſten
+                  ouerhoechſten heer inder ewicheit Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="149v" to="149v">149v3-149v12</locus>
+                <title type="supplied">Bøn til Maria</title>
+                <rubric>Een deuoet ghebedeken van die reyne maghet en<expan>de</expan> moeder gods
+                  maria</rubric>
+                <incipit>O Maria maghet vol ghenade<expan>n</expan></incipit>
+                <explicit>Want ic v ghewarich kinne</explicit>
+              </msItem>
+              <msItem>
+                <locus from="149v" to="157r">149v12-</locus>
+                <title type="supplied">Bønner til Maria</title>
+                <rubric>Hier nae wolghe<expan>n</expan> ſeer ſunerlicke ghebeden van die werdighe
+                  maghet ende moeder gods maria</rubric>
+                <msItem>
+                  <locus from="150r" to="151v">150r1-151v14</locus>
+                  <title type="supplied">Bøn til Maria</title>
+                  <incipit>DDoerluchte moder des ouerſten conincs voer alle beghinſel doer werlt
+                    wtuercoren tempel des heren ſacriſtigie des heilighen gheeſþs toeuerlaet der
+                      ſundare<expan>n</expan></incipit>
+                  <explicit>daer du vrouwe draghes een croen ende regniers mit dinen kynde ewelic
+                    ſonder eynde Amen</explicit>
+                </msItem>
+                <msItem>
+                  <locus from="151v" to="153r">151v14-153r1</locus>
+                  <title type="supplied">Bøn til Maria</title>
+                  <rubric>Een deuoet ghebet van die moeder maria</rubric>
+                  <incipit>O Maria reyne maghet ende moeder des hemelſchen conincs een ſonderlinghe
+                    toenlucht ende toeuerlaet alre creaturen die numemeer een recht
+                    bedroeft</incipit>
+                  <explicit>ontfermelic weder verworueſte Amen</explicit>
+                </msItem>
+                <msItem>
+                  <locus from="153r" to="154v">153r2-154v4</locus>
+                  <title type="supplied">Bøn til Maria</title>
+                  <rubric>Een ſunerlic ghebet tot maria</rubric>
+                  <incipit>O Alre ontfermhertichſte conynghy<expan>n</expan>ne des hemels</incipit>
+                  <explicit>ic begheer mi na gaen en<expan>de</expan> leyden totten ewigen leuen
+                    Amen</explicit>
+                </msItem>
+                <msItem>
+                  <locus from="154v" to="155r">154v4-155r13</locus>
+                  <title type="supplied">Bøn til Maria</title>
+                  <rubric>Een ghebet tot di glorioſte maghet maria</rubric>
+                  <incipit>O Alre glorioſte vrouwe heilighe maria</incipit>
+                  <explicit>dat ic mach ſien iheſum die ghebenedide vrucht dijns bukes
+                      A<expan>men</expan></explicit>
+                </msItem>
+                <msItem>
+                  <locus from="155r" to="156v">155r14-156v13</locus>
+                  <title type="supplied">Bøn til Maria</title>
+                  <rubric>Een deuotelic ghebet van die moeder maria</rubric>
+                  <incipit>O Maria weerde hemelſche coninginne ſoete moeder vol alre
+                    ghenaden</incipit>
+                  <explicit>daer ic ſijn godlike aenſichte ende v weerde coninginne mitten
+                    hemelſchen gheſelſcap ewelic ſonder eynde moete beſcouwen Amen</explicit>
+                </msItem>
+                <msItem>
+                  <locus from="156v" to="157r">156v14-157r6</locus>
+                  <title type="supplied">Bøn til Maria</title>
+                  <rubric>Een ſunerlic ghebedike van die moeder gods maria</rubric>
+                  <incipit>O Maria reyne maghet om die bitter pine die ghi ſaghet</incipit>
+                  <explicit>Mijn ſunden clein ende groet Ghequijt moeten ſijn mit ſijnre
+                    doot</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <locus from="157r" to="162v">157r7-162v11</locus>
+                <title type="supplied">Afladsbøn til Maria</title>
+                <rubric>Soe wie dit ghebet dat hier nae ſtaet der moeder gods ter eeren mit deuocien
+                  leeſt dertich daghen aen een Om wat ſake ſijnre ſalicheit dat hi bidt het ſel hem
+                  gheſchien Ende ſoe wiet leeſt in die eer onser lieuer vrouwen maria maghet ende
+                  moeder of diet hoert leeſen ſal daghelix vertrighen van onſen heer iheſu chriſto
+                  al ſo dicke als hijt deuotelic ende aendachte ſijns herten leeſt vijftijen honder
+                  daghen aflaets van daghelixen ſunden Bidt voer mi</rubric>
+                <incipit>O Mijn alre liefſþen heilighe vrouwe ſinte maria ewighe maghet der
+                    maechde<expan>n</expan> moeder der ouerſter goedertierenheit ende der
+                  ontfermherticheit</incipit>
+                <explicit>Ende ruſte mijnre auders ſielen ende alle der ghelouigher leuende of doot
+                  een ſalich voerſpoet in der tijt ende inder ewicheit Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="162v" to="166v">162v12-166v5</locus>
+                <title type="supplied">Seven Greetings to the Virgin (Thomas of Canterbury)</title>
+                <rubric>Dit ſijn die ſeuen grueten van onſer lieuer vrouwen die ſinte thomas biſcop
+                  van cantelberch maecte Aue maria</rubric>
+                <incipit>IC beuele di N de<expan>n</expan> aelmachtighen goede mit dier ſeluer
+                    ghenade<expan>n</expan> daer hi ſine moeder ſinte ian mede beual doe hi aenden
+                  cruce ſtont</incipit>
+                <explicit>In dier minnen bid ic di lieue here iheſu chriſte die brande dijn ſoete
+                  herte dattu mi willes vergheue<expan>n</expan> alle mine ſn̈den ende mijns
+                    leue<expan>n</expan>s een goet ende Amen</explicit>
+              </msItem>
+              <msItem>
+                <locus from="166v" to="170v">166v5-170v15</locus>
+                <title type="supplied">Seven prayers of the passion</title>
+                <note>Ender defekt</note>
+                <rubric>Hier beghi<expan>n</expan>ne<expan>n</expan> ſeue<expan>n</expan>
+                    ghebede<expan>n</expan> va<expan>n</expan> die paſſie o<expan>n</expan>s
+                    h<expan>er</expan></rubric>
+                <incipit>HEre iheſu chriſte al ſoe ghewaerlike</incipit>
+                <explicit>Hi en mach niet ſterne<expan>n</expan> quader door</explicit>
+              </msItem>
+
+            </msContents>
+            <history>
+              <origin><p>Skrevet efter <origDate notBefore="1471">1471</origDate> i Grevskabet
+                    <origPlace key="Holla01">Holland</origPlace>, muligvis <origPlace
+                    key="Rotterdam01">Rotterdam</origPlace> (<bibl><ref type="secondary"
+                      target="SeaVri2019">Vrieland 2019</ref><biblScope type="pages"
+                    >103</biblScope></bibl>).</p></origin>
+            </history>
+          </msPart>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface/>
+  </facsimile>
+</TEI>
