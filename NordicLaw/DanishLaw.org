@@ -3,21 +3,21 @@
 
 * Fifteenth century
 ** Quartos
-|------------+------------------------------+---------------------------+---------------------------------|
-| Shelfmark  | Title                        | Image                     | Similar                    |
-|------------+------------------------------+---------------------------+---------------------------------|
-| AM 28 4to  | Sjællandske love             | [[Images/AM04-0028_084r.jpg]] | [[Images/AM08-0079-I-eta_001r.jpg]] |
-| AM 25 4to  | Sjællandske love             | [[Images/AM04-0025_048r.jpg]] |                                 |
-| AM 8 4to   | Jyske lov                    | [[Images/AM04-0008_003v.jpg]] |                                 |
-| AM 36 4to  | Skånske lov                  | [[Images/AM04-0036_044r.jpg]] |                                 |
-| AM 40 4to  | Skånske lov                  | [[Images/AM04-0040_044r.jpg]] |                                 |
-| AM 3 4to   | Jyske lov                    | [[Images/AM04-0003_030r.jpg]] | [[Images/Mh-0035_008r.jpg]]         |
-| Ams 39 4to | Skånske lov                  | [[Images/AM04-0039_042r.jpg]] |                                 |
-| AM 9 4to   | Sjællandske love (Jyske lov) | [[Images/AM04-0009_052v.jpg]] |                                 |
-| AM 11 4to  | Sjællandske love (Jyske lov) | [[Images/AM04-0011_078r.jpg]] |                                 |
-| AM 11 4to  | Jyske lov (Sjællandske love) | [[Images/AM04-0011_051r.jpg]] |                                 |
-| AM 21 4to  | Sjællandske love             | [[Images/AM04-0021_036r.jpg]] |                                 |
-| AM 23 4to  | Sjællandske love             | [[Images/AM04-0023_062r.jpg]] |                                 |
-| AM 22 4to  | Sjællandske love             | [[Images/AM04-0022_113r.jpg]] |                                 |
-| AM 26 4to  | Sjællandske love             | [[Images/AM04-0026_091r.jpg]] |                                 |
-|------------+------------------------------+---------------------------+---------------------------------|
+|------------------------------------------+---------------------------+---------------------------------|
+| Shelfmark   Title                        | Image                     | Similar                         |
+|------------------------------------------+---------------------------+---------------------------------|
+| AM 28 4to (Sjællandske love)             | [[Images/AM04-0028_084r.jpg]] | [[Images/AM08-0079-I-eta_001r.jpg]] |
+| AM 25 4to (Sjællandske love)             | [[Images/AM04-0025_048r.jpg]] |                                 |
+| AM 8 4to  (Jyske lov)                    | [[Images/AM04-0008_003v.jpg]] |                                 |
+| AM 36 4to (Skånske lov)                  | [[Images/AM04-0036_044r.jpg]] |                                 |
+| AM 40 4to (Skånske lov)                  | [[Images/AM04-0040_044r.jpg]] |                                 |
+| AM 3 4to (Jyske lov)                     | [[Images/AM04-0003_030r.jpg]] | [[Images/Mh-0035_008r.jpg]]         |
+| AM 39 4to (Skånske lov)                  | [[Images/AM04-0039_042r.jpg]] |                                 |
+| AM 9 4to  (Sjællandske love [Jyske lov]) | [[Images/AM04-0009_052v.jpg]] |                                 |
+| AM 11 4to (Sjællandske love [Jyske lov]) | [[Images/AM04-0011_078r.jpg]] |                                 |
+| AM 11 4to (Jyske lov [Sjællandske love])  | [[Images/AM04-0011_051r.jpg]] |                                 |
+| AM 21 4to (Sjællandske love)            | [[Images/AM04-0021_036r.jpg]] |                                 |
+| AM 23 4to (Sjællandske love)             | [[Images/AM04-0023_062r.jpg]] |                                 |
+| AM 22 4to (Sjællandske love)             | [[Images/AM04-0022_113r.jpg]] |                                 |
+| AM 26 4to (Sjællandske love)             | [[Images/AM04-0026_091r.jpg]] |                                 |
+|------------------------------------------+---------------------------+---------------------------------|
