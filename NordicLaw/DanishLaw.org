@@ -1,0 +1,11 @@
+#+TITLE: Danish legal manuscripts in AMS
+
+
+* Fifteenth century
+** Quartos
+|-----------+-------+------------------------|
+| Shelfmark | Title | Image                  |
+|-----------+-------+------------------------|
+| AM 28 4to | Sjæl. | [[./Images/AM04-0028.pdf]] |
+|-----------+-------+------------------------|
+|           |       |                        |
