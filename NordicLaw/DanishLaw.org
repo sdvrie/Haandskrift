@@ -7,7 +7,7 @@
 | Shelfmark | Title                        | Image                     |
 |-----------+------------------------------+---------------------------|
 | AM 28 4to | Sjællandske love             | [[Images/AM04-0028_084r.jpg]] |
-| AM 25 4to | Sjællandske love             | [[Images/AM04-0024_048r.jpg]] |
+| AM 25 4to | Sjællandske love             | [[Images/AM04-0025_048r.jpg]] |
 | AM 8 4to  | Jyske lov                    | [[Images/AM04-0008_003v.jpg]] |
 | AM 36 4to | Skånske lov                  | [[Images/AM04-0036_044r.jpg]] |
 | AM 40 4to | Skånske lov                  | [[Images/AM04-0040_044r.jpg]] |
@@ -17,7 +17,7 @@
 | AM 11 4to | Sjællandske love (Jyske lov) | [[Images/AM04-0011_078r.jpg]] |
 | AM 11 4to | Jyske lov (Sjællandske love) | [[Images/AM04-0011_051r.jpg]] |
 | AM 21 4to | Sjællandske love             | [[Images/AM04-0021_036r.jpg]] |
-| AM 23 4to | Sjællandske love             | [[Images/AM04-0023_036r.jpg]] |
+| AM 23 4to | Sjællandske love             | [[Images/AM04-0023_062r.jpg]] |
 | AM 22 4to | Sjællandske love             | [[Images/AM04-0022_113r.jpg]] |
 | AM 26 4to | Sjællandske love             | [[Images/AM04-0026_091r.jpg]] |
 |-----------+------------------------------+---------------------------|
