@@ -1,8 +1,12 @@
 /* original from Matthew */
 
 
-titleStmt {display: none}
-publicationStmt {display: none}
+titleStmt {
+    display: none
+}
+publicationStmt {
+    display: none
+}
 
 
 msDesc {
@@ -16,7 +20,7 @@ msDesc {
     line-height: 14pt;
     text-align: left
 }
-msDesc>msIdentifier {
+msDesc > msIdentifier {
     display: block;
     font-size: 26pt;
     line-height: 28pt;
@@ -34,18 +38,27 @@ msIdentifier repository {
 msIdentifier altIdentifier {
     display: none
 }
-msName[type="nickname"]:before {
+msName[type = "nickname"]:before {
     content: "(\201C"
 }
-msName[type="nickname"]:after {
+msName[type = "nickname"]:after {
     content: "\201D)"
 }
-head, msContents,history, additional, seal {
+head,
+msContents,
+history,
+additional,
+seal {
     padding-top: 3pt;
     padding-bottom: 2pt;
     display: block
 }
-physDesc, supportDesc, objectDesc, layoutDesc, decoDesc, sealDesc {
+physDesc,
+supportDesc,
+objectDesc,
+layoutDesc,
+decoDesc,
+sealDesc {
     display: block;
     margin-bottom: 4pt;
 }
@@ -59,13 +72,13 @@ title {
 head title {
     font-style: italic
 }
-head>title:after {
+head > title:after {
     content: ". "
 }
-head>origPlace:after {
+head > origPlace:after {
     content: ", "
 }
-head>origDate:after {
+head > origDate:after {
     content: "."
 }
 head note {
@@ -88,25 +101,25 @@ msItem {
     padding-top: 10pt;
     margin-left: 10pt
 }
-msItem>msItem {
+msItem > msItem {
     display: block;
     margin-left: 15pt
 }
-msItem[n]>locus:before {
+msItem[n] > locus:before {
     content: "("
 }
-msItem[n]>locus:after {
+msItem[n] > locus:after {
     content: ")"
 }
-msItem>title {
+msItem > title {
     font-weight: 600;
     font-size: 100%;
     letter-spacing: 1px
 }
-msItem>title:before {
+msItem > title:before {
     content: "Title: "
 }
-msItem>title:after {
+msItem > title:after {
     content: ". "
 }
 rubric {
@@ -144,16 +157,16 @@ explicit:before {
 explicit:after {
     content: "\201D "
 }
-incipit[defective="yes"]:before {
+incipit[defective = "yes"]:before {
     content: "Begins: \201C"
 }
-explicit[defective="yes"]:before {
+explicit[defective = "yes"]:before {
     content: "Ends: \201C"
 }
-rubric[type="final"]:before {
+rubric[type = "final"]:before {
     content: "Final rubric: \201C"
 }
-rubric[type="final"]:after {
+rubric[type = "final"]:after {
     content: "\201D "
 }
 colophon {
@@ -165,7 +178,7 @@ colophon:before {
 colophon:after {
     content: "\201D "
 }
-msItem>textLang {
+msItem > textLang {
     display: none
 }
 physDesc:before {
@@ -202,71 +215,71 @@ history acquisition:before {
 history acquisition {
     display: block
 }
-msItem>listBibl {
+msItem > listBibl {
     display: block;
     list-style-type: none;
     margin-left: 20pt
 }
-msItem>listBibl>bibl {
+msItem > listBibl > bibl {
     display: list-item;
     margin-left: 30pt
 }
-msItem>listBibl:before {
+msItem > listBibl:before {
     content: "Text editions:";
     display: block;
     font-weight: 600
 }
-msItem>bibl {
+msItem > bibl {
     display: block;
     margin-left: 20pt
 }
-msItem>bibl:before {
+msItem > bibl:before {
     content: "Text edition: ";
     font-weight: 600
 }
-msItem>listBibl>bibl:after {
+msItem > listBibl > bibl:after {
     content: "."
 }
 author:after {
     content: ", "
 }
-bibl>editor:after {
+bibl > editor:after {
     content: ", ";
     text-align: left
 }
-bibl title[level="m"] {
+bibl title[level = "m"] {
     font-style: italic;
     font-weight: normal;
     font-size: 100%
 }
-bibl title[level="j"] {
+bibl title[level = "j"] {
     font-style: italic;
     font-weight: normal;
     font-size: 100%
 }
-bibl title[level="s"] {
+bibl title[level = "s"] {
     font-style: normal;
     font-weight: normal;
     font-size: 100%
 }
-bibl title[level="a"] {
+bibl title[level = "a"] {
     font-style: normal;
     font-weight: normal;
     font-size: 100%
 }
-bibl title[level="a"]:before {
+bibl title[level = "a"]:before {
     content: " \201C"
 }
-bibl title[level="a"]:after {
+bibl title[level = "a"]:after {
     content: "\201D, "
 }
-bibl title[level="s"]:before {
+bibl title[level = "s"]:before {
     content: ", "
 }
 msItem bibl title {
     font-style: italic
 }
-biblScope[type="pages"]:before {
+biblScope[type = "pages"]:before {
     content: ", pp. "
 }
 imprint:before {
@@ -278,13 +291,13 @@ imprint:after {
 pubPlace:after {
     content: ","
 }
-bibl>note:before {
+bibl > note:before {
     content: " ("
 }
-bibl>note:after {
+bibl > note:after {
     content: ")"
 }
-additional>listBibl>bibl:after {
+additional > listBibl > bibl:after {
     content: "."
 }
 q:before {
@@ -299,16 +312,16 @@ q q:before {
 q q:after {
     content: "�"
 }
-q[type="block"] {
+q[type = "block"] {
     display: block;
     margin-left: 15pt;
     font-size: 12pt;
     line-height: 14pt
 }
-q[type="block"]:before {
+q[type = "block"]:before {
     content: ""
 }
-q[type="block"]:after {
+q[type = "block"]:after {
     content: ""
 }
 msItem note:before {
@@ -403,10 +416,10 @@ condition:before {
     content: "Condition: ";
     font-weight: bold
 }
-dimensions[type="leaf"] {
+dimensions[type = "leaf"] {
     display: block
 }
-dimensions[type="leaf"]:before {
+dimensions[type = "leaf"]:before {
     content: "Size of leaves: ";
     font-weight: bold;
     display: block
@@ -453,17 +466,17 @@ surrogates:before {
     content: "Surrogates: ";
     font-weight: bold
 }
-surrogates>p>listBibl {
+surrogates > p > listBibl {
     display: block;
 }
-surrogates>p>listBibl>bibl {
+surrogates > p > listBibl > bibl {
     display: list-item;
     margin-left: 30pt
 }
-title[type="gmd"]:before {
+title[type = "gmd"]:before {
     content: "Format: "
 }
-title[type="gmd"]:after {
+title[type = "gmd"]:after {
     content: ". "
 }
 surrogates idno:before {
@@ -489,19 +502,19 @@ additional:before {
     font-variant: small-caps;
     font-size: 120%
 }
-additional>listBibl {
+additional > listBibl {
     display: block;
     list-style-type: none;
     margin-top: 10pt
 }
-additional>listBibl:before {
+additional > listBibl:before {
     content: "Bibliography:";
     display: block;
     font-weight: 600;
     font-variant: small-caps;
     font-size: 120%
 }
-additional>listBibl>bibl {
+additional > listBibl > bibl {
     text-align: left;
     display: list-item;
     margin-left: 30pt
@@ -528,28 +541,28 @@ lb[n] {
     list-style-type: none;
     margin-left: 30pt;
 }
-lb[type="hyphenated"]:before {
+lb[type = "hyphenated"]:before {
     content: "-|"
 }
 lb[n]:after {
     content: attr(n);
 }
-supplied[reason="damage"]:before {
+supplied[reason = "damage"]:before {
     content: "<"
 }
-supplied[reason="damage"]:after {
+supplied[reason = "damage"]:after {
     content: ">"
 }
-supplied[reason="illegible"]:before {
+supplied[reason = "illegible"]:before {
     content: "["
 }
-supplied[reason="illegible"]:after {
+supplied[reason = "illegible"]:after {
     content: "]"
 }
-supplied[reason="omitted"]:before {
+supplied[reason = "omitted"]:before {
     content: "\27E8"
 }
-supplied[reason="omitted"]:after {
+supplied[reason = "omitted"]:after {
     content: "\27E9"
 }
 gap:before {
@@ -564,29 +577,29 @@ foreign {
 ref {
     font-style: italic
 }
-hi[rend="sup"] {
+hi[rend = "sup"] {
     font-size: .83em;
     vertical-align: super
 }
-hi[rend="underline"] {
+hi[rend = "underline"] {
     text-decoration: underline
 }
-hi[rend="bold"] {
+hi[rend = "bold"] {
     font-weight: bold
 }
-hi[rend="italic"] {
+hi[rend = "italic"] {
     font-style: italic
 }
-del[rend="overstrike"] {
+del[rend = "overstrike"] {
     text-decoration: line-through
 }
-note>title {
+note > title {
     font-style: italic
 }
 p {
     display: block
 }
-p>p {
+p > p {
     display: block;
     margin-left: 15pt;
     margin-right: 15pt;
@@ -612,10 +625,10 @@ msPart idno {
     display: block;
     font-size: 16pt
 }
-hi[rend="scap"] {
+hi[rend = "scap"] {
     font-size: 65%
 }
-hi[rend="lig"] {
+hi[rend = "lig"] {
     letter-spacing: -4px
 }
 publisher {
@@ -636,10 +649,17 @@ expan > ex:before {
 expan > ex:after {
     content: ")";
 }
-placeName, persName, name, roleName {
+placeName,
+persName,
+name,
+roleName {
     display: inline;
 }
 
-sic {display: none }
+sic {
+    display: none
+}
 
-g[ref="#aalig"]:before { content: "\EFA0"}
+g[ref = "#aalig"]:before {
+    content: "\EFA0"
+}
